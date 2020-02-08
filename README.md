@@ -1,6 +1,6 @@
 # Longest Common Subsequence Dynamic Programming Algorithm
 [![Twitter Badge](https://img.shields.io/badge/chat-twitter-blue.svg)](https://twitter.com/ArrayLikeObj)
-
+[![GitHub license](https://img.shields.io/github/license/ethanny2/longest-common-subsequence-algorithm)](https://github.com/ethanny2/longest-common-subsequence-algorithm/blob/master/LICENSE)
 
 ![Picture of Longest Common Subsequence Algorithm](https://i2.wp.com/algorithms.tutorialhorizon.com/files/2015/06/LCS-Printing-Result.png " Longest Common Subsequence Algorithm")
 
